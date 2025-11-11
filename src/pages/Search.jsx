@@ -1,5 +1,5 @@
 import { useSearchParams } from "react-router-dom"
-import { useFetch } from "../hooks/UseFetch"
+import { useFetch } from "../hooks/useFetch"
 import Card from '../components/Card'
 import { useTitle } from "../hooks/useTitle"
 
